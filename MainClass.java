@@ -2,9 +2,9 @@ public class MainClass {
 
    public static void main (String [] args) {
       System.out.println("Hello World");
-      print2();
+      doWork();
    }
-   public void print2() {
-      System.out.println("Print 2");
+   public void doWork() {
+        //doing work
    }
 }
