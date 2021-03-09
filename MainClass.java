@@ -7,4 +7,7 @@ public class MainClass {
    public void doWork() {
         //doing work
    }
+   public void doWork2() {
+	   // doing work 2
+   }	
 }
